@@ -7,3 +7,4 @@ The code contains two modules:
 
 This module loads the counterexample of Example 1, and performs a brute-force verification that no pairwise stable network exists with the specified linking costs.
 
+## 
