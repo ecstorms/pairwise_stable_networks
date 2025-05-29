@@ -7,4 +7,6 @@ The code contains two modules:
 
 This module loads the counterexample of Example 1, and performs a brute-force verification that no pairwise stable network exists with the specified linking costs.
 
-## 
+## hypercube_DAG_majorization_conjecture.py
+
+This module performs both exhaustive and random searches for counterexamples to the majorization condition of Conjecture 1.1. 
