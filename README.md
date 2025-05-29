@@ -10,3 +10,8 @@ This module loads the counterexample of Example 1, and performs a brute-force ve
 ## hypercube_DAG_majorization_conjecture.py
 
 This module performs both exhaustive and random searches for counterexamples to the majorization condition of Conjecture 1.1. 
+
+
+## Dependencies 
+
+The only non-standard dependencies are the enlighten and graph-tool python packages. See (https://graph-tool.skewed.de/) for instructions on installing the graph-tool python package. 
